@@ -17,5 +17,3 @@
 - 📫 How to reach me nabeerdar1@gmail.com
 
 ### Looking forward to connecting with you!
-
--->
