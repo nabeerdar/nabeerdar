@@ -6,9 +6,6 @@
 #### Expertise
 - 🔭 I’m an experienced engineer with proficiency in: Python, Java, ReactJs, AWS, Flask, Docker, SQL, Machine Learning, Data Science
 
-#### Collaboration
-- 💞️ I’m looking to collaborate on Open Source Projects and many more
-
 #### Contact
 - 📫 How to reach me nabeerdar1@gmail.com
 
