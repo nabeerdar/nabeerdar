@@ -1,5 +1,5 @@
 ### Hi there, I’m Nabeer Dar 👋
-<u>Underlined Text</u>
+<span style="text-decoration: underline;">Underlined Text</span>
 
 #### About Me
 👀 I am passionate about a wide array of topics within the tech world, particularly in Computer Science, Artificial Intelligence, Web Development and Data Science
