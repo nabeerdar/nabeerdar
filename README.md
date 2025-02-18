@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I’m Nabeer Dar; @nabeerdar 👋
+<u>Underlined Text</u>
 
-<!--
-**nabeerdar/nabeerdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+👀 I am passionate about a wide array of topics within the tech world, particularly in Computer Science, Artificial Intelligence, Web Development and Data Science
 
-Here are some ideas to get you started:
+### Expertise
+- 🔭 I’m an experienced engineer with proficiency in: Python, Java, ReactJs, AWS, Flask, Docker, SQL, Machine Learning, Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Learning Journey
+- 🌱 I believe in lifelong learning and am currently focused on expanding my knowledge and skills in AI and Cyber Security
+
+### Collaboration
+- 💞️ I’m looking to collaborate on Open Source Projects and many more
+
+### Contact
+- 📫 How to reach me nabeerdar1@gmail.com
+
+### Looking forward to connecting with you!
+
 -->
