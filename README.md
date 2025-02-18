@@ -1,4 +1,4 @@
-## Hi there, I’m Nabeer Dar; @nabeerdar 👋
+### Hi there, I’m Nabeer Dar 👋
 <u>Underlined Text</u>
 
 #### About Me
