@@ -1,5 +1,6 @@
 ### Hi there, I’m Nabeer Dar 👋
 <span style="text-decoration: underline;"><hr></span>
+<hr>
 
 #### About Me
 👀 I am passionate about a wide array of topics within the tech world, particularly in Computer Science, Artificial Intelligence, Web Development and Data Science
