@@ -7,6 +7,6 @@
 - 🔭 I’m an experienced engineer with proficiency in: Python, Java, ReactJs, AWS, Flask, Docker, SQL, Machine Learning, Data Science
 
 #### Contact
-- 📫 How to reach me nabeerdar1@gmail.com
+- 📫 reach out to me here -> nabeerdar1@gmail.com
 
 #### Looking forward to connecting with you!
